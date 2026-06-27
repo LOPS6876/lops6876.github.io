@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Customized Packaging product illustration</title><desc id="desc">Premium placeholder illustration for Customized Packaging from SOVIRA GLOBAL.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F5132"/><stop offset="1" stop-color="#183D2B"/></linearGradient><radialGradient id="glow" cx=".72" cy=".28" r=".5"><stop stop-color="#C9A227" stop-opacity=".45"/><stop offset="1" stop-color="#C9A227" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="900" rx="62" fill="url(#bg)"/><rect width="1200" height="900" rx="62" fill="url(#glow)"/>
+<path d="M120 700C285 520 428 548 590 620S860 725 1085 470" fill="none" stroke="#C9A227" stroke-width="3" stroke-dasharray="12 16" opacity=".45"/>
+<rect x="280" y="250" width="430" height="280" rx="34" fill="#F7F3EA" stroke="#C9A227" stroke-width="9"/><rect x="735" y="280" width="150" height="220" rx="24" fill="#C9A227"/><path d="M330 320h310M330 380h250M330 440h290" stroke="#0F5132" stroke-width="14" stroke-linecap="round" opacity=".7"/>
+<text x="92" y="112" font-family="Arial, sans-serif" font-size="26" letter-spacing="5" fill="#C9A227" font-weight="700">SOVIRA GLOBAL</text>
+<text x="92" y="772" font-family="Georgia, serif" font-size="58" fill="#F7F3EA" font-weight="700">Customized Packaging</text>
+<text x="96" y="824" font-family="Arial, sans-serif" font-size="25" fill="#E8DDC2">Solutions</text>
+</svg>

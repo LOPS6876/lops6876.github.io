@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" role="img" aria-labelledby="mapTitle mapDesc">
+<title id="mapTitle">Supported export corridors map</title><desc id="mapDesc">Stylized world map showing India connected to priority export regions.</desc>
+<rect width="1000" height="560" rx="36" fill="#F7F3EA"/>
+<path d="M151 184c56-50 142-63 201-28 48 29 93 19 140-9 65-38 133-23 174 28 28 36 72 44 121 39 79-7 138 41 144 107 8 86-79 128-158 100-62-22-105-13-151 19-74 51-162 39-216-30-28-37-68-45-121-29-95 28-181-2-207-74-14-39 3-87 73-123z" fill="#E9E1D2"/>
+<g fill="#0F5132" opacity=".8"><circle cx="650" cy="310" r="8"/><circle cx="545" cy="245" r="7"/><circle cx="402" cy="225" r="7"/><circle cx="230" cy="245" r="7"/><circle cx="785" cy="360" r="7"/><circle cx="720" cy="205" r="7"/><circle cx="840" cy="260" r="7"/></g>
+<g fill="none" stroke="#C9A227" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="8 10" opacity=".85"><path d="M650 310C620 250 585 235 545 245"/><path d="M650 310C568 270 480 245 402 225"/><path d="M650 310C515 325 360 305 230 245"/><path d="M650 310C693 328 740 348 785 360"/><path d="M650 310C663 257 690 226 720 205"/><path d="M650 310C722 276 779 260 840 260"/></g>
+<circle cx="650" cy="310" r="16" fill="#C9A227"/><circle cx="650" cy="310" r="6" fill="#0F5132"/>
+</svg>

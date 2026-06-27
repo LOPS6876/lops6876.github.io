@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Dehydrated Onion Flakes product illustration</title><desc id="desc">Premium placeholder illustration for Dehydrated Onion Flakes from SOVIRA GLOBAL.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F5132"/><stop offset="1" stop-color="#183D2B"/></linearGradient><radialGradient id="glow" cx=".72" cy=".28" r=".5"><stop stop-color="#C9A227" stop-opacity=".45"/><stop offset="1" stop-color="#C9A227" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="900" rx="62" fill="url(#bg)"/><rect width="1200" height="900" rx="62" fill="url(#glow)"/>
+<path d="M120 700C285 520 428 548 590 620S860 725 1085 470" fill="none" stroke="#C9A227" stroke-width="3" stroke-dasharray="12 16" opacity=".45"/>
+<rect x="260" y="340" width="135" height="54" rx="24" fill="#F7F3EA" stroke="#C9A227" stroke-width="7" transform="rotate(-18 327.5 367.0)"/><rect x="405" y="300" width="120" height="44" rx="24" fill="#F7F3EA" stroke="#C9A227" stroke-width="7" transform="rotate(16 465.0 322.0)"/><rect x="555" y="360" width="140" height="50" rx="24" fill="#F7F3EA" stroke="#C9A227" stroke-width="7" transform="rotate(-8 625.0 385.0)"/><rect x="700" y="315" width="130" height="48" rx="24" fill="#F7F3EA" stroke="#C9A227" stroke-width="7" transform="rotate(22 765.0 339.0)"/><rect x="815" y="380" width="120" height="42" rx="24" fill="#F7F3EA" stroke="#C9A227" stroke-width="7" transform="rotate(-18 875.0 401.0)"/>
+<text x="92" y="112" font-family="Arial, sans-serif" font-size="26" letter-spacing="5" fill="#C9A227" font-weight="700">SOVIRA GLOBAL</text>
+<text x="92" y="772" font-family="Georgia, serif" font-size="58" fill="#F7F3EA" font-weight="700">Dehydrated Onion Flakes</text>
+<text x="96" y="824" font-family="Arial, sans-serif" font-size="25" fill="#E8DDC2">Processed Ingredients</text>
+</svg>

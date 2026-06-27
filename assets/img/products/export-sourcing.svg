@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+<title id="title">Export Sourcing product illustration</title><desc id="desc">Premium placeholder illustration for Export Sourcing from SOVIRA GLOBAL.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F5132"/><stop offset="1" stop-color="#183D2B"/></linearGradient><radialGradient id="glow" cx=".72" cy=".28" r=".5"><stop stop-color="#C9A227" stop-opacity=".45"/><stop offset="1" stop-color="#C9A227" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="900" rx="62" fill="url(#bg)"/><rect width="1200" height="900" rx="62" fill="url(#glow)"/>
+<path d="M120 700C285 520 428 548 590 620S860 725 1085 470" fill="none" stroke="#C9A227" stroke-width="3" stroke-dasharray="12 16" opacity=".45"/>
+<path d="M210 430C360 230 540 300 665 250S850 255 985 160" fill="none" stroke="#C9A227" stroke-width="12" stroke-dasharray="18 22" stroke-linecap="round"/><circle cx="210" cy="430" r="25" fill="#F7F3EA"/><circle cx="665" cy="250" r="25" fill="#F7F3EA"/><circle cx="985" cy="160" r="25" fill="#F7F3EA"/><rect x="345" y="325" width="210" height="145" rx="28" fill="#F7F3EA"/><rect x="720" y="300" width="160" height="120" rx="26" fill="#C9A227"/>
+<text x="92" y="112" font-family="Arial, sans-serif" font-size="26" letter-spacing="5" fill="#C9A227" font-weight="700">SOVIRA GLOBAL</text>
+<text x="92" y="772" font-family="Georgia, serif" font-size="58" fill="#F7F3EA" font-weight="700">Export Sourcing</text>
+<text x="96" y="824" font-family="Arial, sans-serif" font-size="25" fill="#E8DDC2">Solutions</text>
+</svg>
