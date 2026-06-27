@@ -1,0 +1,19 @@
+SOVIRA GLOBAL Premium V2 GitHub Pages Package
+
+What changed:
+- Finalized uploaded SOVIRA GLOBAL logo integrated across the site.
+- Homepage redesigned with a more executive, premium, minimalist direction.
+- Global CSS upgraded for stronger spacing, hierarchy, cards, buttons, header, footer, product cards and mobile polish.
+- Existing SEO pages, product pages, sitemap, robots.txt, schema foundations and GitHub Pages readiness preserved.
+
+Upload to GitHub:
+1. Unzip this package.
+2. Open the unzipped folder.
+3. Select everything inside the folder, not the outer folder.
+4. Upload to the root of lops6876.github.io and commit changes.
+5. Wait a few minutes and refresh https://lops6876.github.io/.
+
+Important:
+- Forms are static until connected to Netlify Forms, Formspree, EmailJS, a CRM or backend service.
+- Replace placeholder product illustrations with real photography when available.
+- Add only verified certificates and testimonials.
