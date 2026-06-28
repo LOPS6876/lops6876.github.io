@@ -1,0 +1,13 @@
+SOVIRA GLOBAL - GitHub Web Upload Package (Under 100 Files)
+
+This package is reduced for GitHub website upload. It uses direct JPG images and removes duplicate AVIF/WebP responsive copies so the file count stays below GitHub web upload limit.
+
+How to upload:
+1. Extract this ZIP.
+2. Open the extracted folder.
+3. Select all files and folders INSIDE the folder, not the ZIP itself.
+4. Upload them to the root of your GitHub Pages repository.
+5. Commit changes.
+6. Wait 2-5 minutes and hard refresh the website.
+
+Important: Keep .nojekyll, index.html, assets folder, products folder, and sitemap.xml in the repository root.
