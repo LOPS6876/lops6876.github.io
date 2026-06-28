@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://soviraglobal.com/sitemap.xml
+Sitemap: https://lops6876.github.io/sitemap.xml

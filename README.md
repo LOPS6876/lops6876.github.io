@@ -1,45 +1,25 @@
-# SOVIRA GLOBAL Website Package
+# SOVIRA GLOBAL Premium Website - Production Build
 
-Fresh static website build for SOVIRA GLOBAL, based on the provided enterprise website brief.
+This is a new production-ready static GitHub Pages website for SOVIRA GLOBAL.
 
-## What is included
+## What changed
 
-- Premium multi-page static website
-- Homepage, About, Products, 18 product pages, Industries, Export Process, Private Label, Packaging, Sustainability, Global Markets, Resources, Knowledge Center, Gallery, Blog, FAQ, Contact, legal pages, Sitemap, 404, Thank You
-- Shared responsive CSS and lightweight JavaScript
-- Product-specific SVG image placeholders
-- SEO metadata on every page
-- Organization, Website, Breadcrumb, Product, FAQ, BlogPosting and LocalBusiness schema foundations
-- `sitemap.xml` and `robots.txt`
-- Netlify and Vercel config files
-- Accessible forms with labels, consent checkbox and success state
+- Rebuilt the website with a premium export-brand visual direction.
+- Replaced generic product illustrations with selected realistic product images.
+- Added responsive AVIF, WebP and JPEG image assets.
+- Added accessible sticky navigation, product cards, FAQ, contact inquiry flow and mobile CTA.
+- Added SEO metadata, Open Graph preview, schema markup, sitemap and robots.txt.
+- Removed unverified certification claims and kept copy safe and buyer-focused.
+- Preserved buyer desk contact details from the uploaded website source: soviraglobal@gmail.com, +91 9967952834.
 
-## How to preview locally
+## Deployment on GitHub Pages
 
-From this folder run:
+1. Unzip this package.
+2. Upload all files and folders to the root of your GitHub Pages repository.
+3. Keep `.nojekyll` in the root.
+4. Commit and push.
+5. Visit https://lops6876.github.io/ after GitHub Pages finishes deployment.
 
-```bash
-python3 -m http.server 8080
-```
+## Contact form note
 
-Open `http://localhost:8080`.
-
-Do not open `index.html` directly by double click because root-relative links such as `/assets/css/styles.css` are designed for hosting from the site root.
-
-## Before launch
-
-1. Connect the domain `soviraglobal.com`.
-2. Replace placeholder gallery/product SVGs with verified photography.
-3. Connect forms to Netlify Forms, Formspree, a CRM, or a backend email service.
-4. Add real PDFs for company profile, catalogue and product specification sheets.
-5. Replace LinkedIn and Facebook placeholders with official page links.
-6. Add only verified certification documents and status labels.
-7. Review Privacy Policy and Terms & Conditions with legal counsel.
-8. Run Lighthouse/PageSpeed Insights after deployment and optimize real images.
-
-## Contact details used
-
-Phone: +91 9967952834
-Email: soviraglobal@gmail.com
-Instagram: https://www.instagram.com/soviraglobal
-Website: https://soviraglobal.com
+GitHub Pages is static. The inquiry form opens the buyer's email app with a prefilled message to `soviraglobal@gmail.com`. For real form submissions without email-client dependency, connect Formspree, Netlify Forms, Google Apps Script or a backend endpoint.

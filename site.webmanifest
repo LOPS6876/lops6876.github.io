@@ -1,14 +1,15 @@
 {
   "name": "SOVIRA GLOBAL",
   "short_name": "SOVIRA",
+  "description": "Premium Indian food products exporter",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#F7F3EA",
-  "theme_color": "#0F5132",
+  "background_color": "#fffaf0",
+  "theme_color": "#0f5132",
   "icons": [
     {
       "src": "/assets/img/favicon.png",
-      "sizes": "512x512",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ]
